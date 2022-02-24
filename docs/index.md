@@ -7,7 +7,7 @@ Quality Assurance and Automation Engineer
 <img src="https://miro.medium.com/max/1400/0*WYN3rttxR4q4zJ7z.png" alt="Slidev" />
 </a>
 </p>
-
+</br>
 
 <p align="center">
  <b>All <b>test <b>Automation <b>project <b>prototype 🧑‍💻👩‍💻👨‍💻
@@ -20,6 +20,7 @@ I thrive under pressure and this can be seen in my history of successfully deali
 In this section i provide a different test Automation archetype, 
 
 ## Project 
+  
 We will go throw different test Automation archetype and types. 
 
 - 🌟 [**Front_test_chrome**](https://github.com/iheb-athimni/Front_test_chrome) - UI test Automation project on the chrome browser using Cucumer Selenium with page object design.
