@@ -10,7 +10,7 @@ Quality Assurance and Automation Engineer
 </br>
 
 <p align="center">
- <b>All</b> <b>test</b> <b>Automation</b>  <b>project</b>  <b>prototype</b>  🧑‍💻👩‍💻👨‍💻
+All test Automation project prototype 🧑‍💻👩‍💻👨‍💻
 </p>
 
 
