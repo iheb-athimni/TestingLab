@@ -7,7 +7,7 @@ Quality Assurance and Automation Engineer
 <img src="https://miro.medium.com/max/1400/0*WYN3rttxR4q4zJ7z.png" alt="Slidev" />
 </a>
 </p>
-</br>
+
 
 <p align="center">
  <b>All</b> <b>test</b> <b>Automation <b>project <b>prototype 🧑‍💻👩‍💻👨‍💻
