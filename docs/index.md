@@ -8,11 +8,11 @@ Quality Assurance and Automation Engineer
 </a>
 </p>
 
-
+<br>
 <p align="center">
 All test Automation project prototype 🧑‍💻👩‍💻👨‍💻
 </p>
-</br>
+
 
 For the past 4 years, I worked as a QA engineer collaborating with various QA teams and on complex functional testing (manual and automation) on multiple types of applications.
 I'm passionate about bug hunts and m known as a hard-working team player who loves to learn. 
@@ -73,7 +73,8 @@ the report is written as .html file into their respective /target directories af
 <img src="https://i.giphy.com/media/349qKnoIBHK1i/giphy.gif" />
 </a>
 </p>
-</br>
+
+
 For more details see [selenium test automation architype](https://testexecution.wixsite.com/ihebathimni/post/selenium-maven-test-automation-project)..
 
 ### Note :
