@@ -1,18 +1,17 @@
 ## iheb Athimni GitHub 
 Quality Assurance and Automation Engineer
-
+<br>
+<meta name="google-site-verification" content="nuSoq7Q6NtI24R4wOfZISnc7Q0qV4hqFzIdixzvLwjs" />
 <br>
 <p align="center">
 <a href="https://testexecution.wixsite.com/ihebathimni" target="_blank">
 <img src="https://miro.medium.com/max/1400/0*WYN3rttxR4q4zJ7z.png" alt="Slidev" />
 </a>
-</p>
-
+</p
 <br>
 <p align="center">
 All test Automation project prototype 🧑‍💻👩‍💻👨‍💻
 </p>
-
 
 For the past 4 years, I worked as a QA engineer collaborating with various QA teams and on complex functional testing (manual and automation) on multiple types of applications.
 I'm passionate about bug hunts and m known as a hard-working team player who loves to learn. 
@@ -24,9 +23,9 @@ In this section i provide a different test Automation archetype,
 We will go throw different test Automation archetype and types. 
 
 - 🌟 [**Front_test_chrome**](https://github.com/iheb-athimni/Front_test_chrome) - UI test Automation project on the chrome browser using Cucumer Selenium with page object design.
-- 
+
 - 🌟 [**Front_test_Firefox**](https://github.com/iheb-athimni/Front_test_Firefox) - UI test Automation project on the Firefox browser using Cucumer Selenium with page object design.
-- 
+
 - 🌟 [**Api_test_RestTemplate**](https://github.com/iheb-athimni/Api_test_RestTemplate) - Api test Automation project using RestTemplate Spring function with POST HTTP Methode.
 
 
