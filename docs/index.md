@@ -86,4 +86,4 @@ Hope you enjoy 🙂.
 
 ## License
 
-MIT License © 2021 [Anthony Fu](https://github.com/antfu)
+MIT License © 2021 [Anthony Fu](https://github.com/iheb-athimni)
