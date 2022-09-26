@@ -27,7 +27,7 @@ We will go throw different test Automation archetype and types.
 - 🌟 [**Api_test_RestTemplate**](https://github.com/iheb-athimni/Api_test_RestTemplate) - Api test Automation project using RestTemplate Spring function with POST HTTP Methode.
 
 
-## Getting Started
+## Getting Started 
 Project Set up Documentations: [project/Set.UP](https://testexecution.wixsite.com/ihebathimni/post/selenium-maven-test-automation-project)
 
 
