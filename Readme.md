@@ -25,7 +25,7 @@ We will go throw different test Automation archetype and types.
 - 🌟 [**Front_test_chrome**](https://github.com/ihebTestingLab/Front_test_chrome) - UI test Automation project on the chrome browser using Cucumer Selenium with page object design.
 - 🌟 [**Front_test_Firefox**](https://github.com/ihebTestingLab/Front_test_Firefox) - UI test Automation project on the Firefox browser using Cucumer Selenium with page object design.
 - 🌟 [**Api_test_RestTemplate**](https://github.com/ihebTestingLab/Api_test_RestTemplate) - Api test Automation project using RestTemplate Spring function with POST HTTP Methode.
-  - 🌟 [**KARATE_test_api**](https://github.com/ihebTestingLab/KARATE_test_api) - Api test Automation project using RestTemplate Spring function with POST HTTP Methode.
+- 🌟 [**KARATE_test_api**](https://github.com/ihebTestingLab/KARATE_test_api) - Api test Automation project using RestTemplate Spring function with POST HTTP Methode.
 
 
 ## Getting Started 
