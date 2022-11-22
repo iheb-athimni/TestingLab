@@ -1,4 +1,4 @@
-## iheb TestingLab GitHub 
+## TestingLab GitHub 
 Quality Assurance and Automation Engineer
 
 <br>
